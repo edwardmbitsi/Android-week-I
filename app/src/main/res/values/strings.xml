@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plenty2.0</string>
+    <string name="name">Plenty</string>
+    <string name="button1">Get Started</string>
+    <string name="button2">Shop!</string>
+    <string name="location">Enter location</string>
+    <string name="intro">Love shopping at the comfort of your home?We have plenty of everything here.Enter your location below to see shops near you</string>
+    <string name="shops">Shops near you</string>
+</resources>
