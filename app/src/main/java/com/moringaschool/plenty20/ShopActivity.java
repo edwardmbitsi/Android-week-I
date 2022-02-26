@@ -20,8 +20,8 @@ public class ShopActivity extends AppCompatActivity {
     @BindView(R.id.listView) ListView mListView;
     private String[] shops = new String[] {"Jim's Phone Place", "Book-Wormers",
             "Uk Thrifts", "Baus Optics", "MacCoffee", "Farm-Fresh",
-            "Bag-it-Fashions", "Phillips", "Miss Imports", "Andina",
-            "Lardo", "Portland City Grill", "Fat Head's Brewery",
+            "Bag-it-Fashions", "Phillips", "Miss Imports", "Toy Town",
+            "Ideal Furniture", "Rasi Electronics", "Fat Head's Brewery",
             "Chipotle", "Subway"};
     private String[] items = new String[] {"Smartphones", "Books", "Shoes",
             "Glasses", "Coffee Beans", "Groceries", "Bags", "Home Appliances",
