@@ -19,7 +19,7 @@
         android:layout_marginTop="35dp"
         android:text="@string/name"
         android:fontFamily="@font/lobster_regular"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="50sp"
         android:textStyle="bold" />
 
