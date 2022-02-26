@@ -21,8 +21,8 @@ public class ShopActivity extends AppCompatActivity {
     private String[] shops = new String[] {"Jim's Phone Place", "Book-Wormers",
             "Uk Thrifts", "Baus Optics", "MacCoffee", "Farm-Fresh",
             "Bag-it-Fashions", "Phillips", "Miss Imports", "Toy Town",
-            "Ideal Furniture", "Rasi Electronics", "Fat Head's Brewery",
-            "Chipotle", "Subway"};
+            "Ideal Furniture", "Rasi Electronics", "Cnow Games",
+            "Jogi Motors", "Jogi Motors"};
     private String[] items = new String[] {"Smartphones", "Books", "Shoes",
             "Glasses", "Coffee Beans", "Groceries", "Bags", "Home Appliances",
             "Decor", "Children Toys", "Chairs", "Computers", "X-box", "Sports Gears",
