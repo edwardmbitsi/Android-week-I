@@ -18,7 +18,7 @@ import butterknife.ButterKnife;
 public class ShopActivity extends AppCompatActivity {
     @BindView(R.id.locationTextView) TextView mLocationTextView;
     @BindView(R.id.listView) ListView mListView;
-    private String[] shops = new String[] {"Mi Mero Mole", "Mother's Bistro",
+    private String[] shops = new String[] {"Jim's Phone Place", "Book-Wormers",
             "Life of Pie", "Screen Door", "Luc Lac", "Sweet Basil",
             "Slappy Cakes", "Equinox", "Miss Delta's", "Andina",
             "Lardo", "Portland City Grill", "Fat Head's Brewery",
