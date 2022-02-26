@@ -30,7 +30,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="553dp"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="@color/purple_500"
         android:text="@string/button1"
         android:textColor="@color/white" />
 </RelativeLayout>
