@@ -19,7 +19,7 @@ public class ShopActivity extends AppCompatActivity {
     @BindView(R.id.locationTextView) TextView mLocationTextView;
     @BindView(R.id.listView) ListView mListView;
     private String[] shops = new String[] {"Jim's Phone Place", "Book-Wormers",
-            "Uk Thrifts", "Baus Optics", "Luc Lac", "Sweet Basil",
+            "Uk Thrifts", "Baus Optics", "MacCoffee", "Sweet Basil",
             "Slappy Cakes", "Equinox", "Miss Delta's", "Andina",
             "Lardo", "Portland City Grill", "Fat Head's Brewery",
             "Chipotle", "Subway"};
