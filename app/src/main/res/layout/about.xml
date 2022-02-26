@@ -49,7 +49,7 @@
         android:layout_above="@+id/shopButton"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="10dp"
-        android:background="@color/white"
+        android:background="@color/purple_500"
         android:hint="@string/location"
         android:textColor="@color/black"
         android:padding="5dp" />
